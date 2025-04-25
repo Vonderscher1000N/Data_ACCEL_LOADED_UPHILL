@@ -24,7 +24,7 @@ fatigability in trail runners or adapt training modalities).
 
 Two sheets are provided: 
 
-[🏃 Force data](/Force) 
+## [🏃 Force data](/Force) 
 
 **"Running_Force_Velocity.csv"** contains data of force, calculated with an inverse dynamic approach applied to the centre of mass, 
 and velocity data measured with a radar device (📡 46.875 Hz, ATS Pro II, Stalker, Texas, USA)
